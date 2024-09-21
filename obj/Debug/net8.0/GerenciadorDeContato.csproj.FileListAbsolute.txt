@@ -1,0 +1,14 @@
+C:\Users\surfc\GerenciadorDeContato\bin\Debug\net8.0\GerenciadorDeContato.exe
+C:\Users\surfc\GerenciadorDeContato\bin\Debug\net8.0\GerenciadorDeContato.deps.json
+C:\Users\surfc\GerenciadorDeContato\bin\Debug\net8.0\GerenciadorDeContato.runtimeconfig.json
+C:\Users\surfc\GerenciadorDeContato\bin\Debug\net8.0\GerenciadorDeContato.dll
+C:\Users\surfc\GerenciadorDeContato\bin\Debug\net8.0\GerenciadorDeContato.pdb
+C:\Users\surfc\GerenciadorDeContato\obj\Debug\net8.0\GerenciadorDeContato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surfc\GerenciadorDeContato\obj\Debug\net8.0\GerenciadorDeContato.AssemblyInfoInputs.cache
+C:\Users\surfc\GerenciadorDeContato\obj\Debug\net8.0\GerenciadorDeContato.AssemblyInfo.cs
+C:\Users\surfc\GerenciadorDeContato\obj\Debug\net8.0\GerenciadorDeContato.csproj.CoreCompileInputs.cache
+C:\Users\surfc\GerenciadorDeContato\obj\Debug\net8.0\GerenciadorDeContato.dll
+C:\Users\surfc\GerenciadorDeContato\obj\Debug\net8.0\refint\GerenciadorDeContato.dll
+C:\Users\surfc\GerenciadorDeContato\obj\Debug\net8.0\GerenciadorDeContato.pdb
+C:\Users\surfc\GerenciadorDeContato\obj\Debug\net8.0\GerenciadorDeContato.genruntimeconfig.cache
+C:\Users\surfc\GerenciadorDeContato\obj\Debug\net8.0\ref\GerenciadorDeContato.dll
